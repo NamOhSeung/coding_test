@@ -1,3 +1,4 @@
+# 이것이 취업을 위한 코딩테스트다 문제
 
 # min 함수로 풀기
 N, M = map(int,input().split())
