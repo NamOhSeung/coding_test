@@ -1,3 +1,5 @@
+# 이것이 취업을 위한 코딩테스트다 문제
+
 import sys
 
 n, m, k = map(int,sys.stdin.readline().split()) # 배열의 크기 n, 숫자가 더해지는 횟수 m, 연속해서 더해지는 최대 횟수 k
